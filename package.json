@@ -1,5 +1,5 @@
 {
-  "name": "The first project",
+  "name": "hexlet-js",
   "version": "1.0.0",
   "type": "module",
   "description": "Мой первый проект на Хекслете",
@@ -11,10 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/Aleksey-S37/hexlet-js.git"
   },
-  "author": "Aleksey-S37",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aleksey-S37/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Aleksey-S37/hexlet-js#readme"
+  "homepage": "https://github.com/Aleksey-S37/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
